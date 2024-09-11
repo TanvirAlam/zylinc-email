@@ -39,25 +39,27 @@ Technologies Used
 
     `/src/*`
     ```
+    - app    
         - /Componenets
            - /EmailList
            - /EmailContent
            - /ContactInfo
            - /Agents
         - /hooks
-            - useEmails
-            - useAgents
+            - useEmails (exp)
+            - useAgents (exp)
         - /pages
             - /api
-                - trpc
-            - /emails
-        - /server
-            - /routers
-        - /styles
+                - /trpc
+                - /emails
         - /utils
         - /tests
         - /types
         - /stories
+    - server
+        - /routes
+    - styles
+    - trpc
     ```
 
 - Approach to Implementing Business Logic:
