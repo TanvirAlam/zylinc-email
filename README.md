@@ -1,4 +1,7 @@
 
+![Test 01](senior-frontend-engineer-test-01.png)
+
+![Test 02](senior-frontend-engineer-test-02.png)
 
 ##Assignment 1 - UI/UX
 
