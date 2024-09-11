@@ -79,10 +79,10 @@ Technologies Used
     
     * Backend Logic Testing
         - For `tRPC` routers, unit tests should verify that the business logic is working as expected. 
-            The goal here is to test logic like 
-                - `CRUD` operations 
-                - Validations
-                - `API` behavior without making actual network or database calls
+        The goal here is to test logic like 
+            - `CRUD` operations 
+            - Validations
+            - `API` behavior without making actual network or database calls
 
 
 ## Assignment 3 - My Resources
